@@ -1,5 +1,6 @@
 
 Introduction:
+
 Tamil, being one of the oldest and widely spoken languages in the world, has a rich cultural heritage. The ability to accurately extract and process Tamil text from digital documents and images is crucial for various applications, such as document digitization, translation, and information retrieval. This project explores the use of the Tesseract Open Source OCR Engine to perform Tamil printed word recognition, highlighting the steps involved in setting up the required tools and libraries, and evaluating the performance of the OCR system.
 
 Objectives:
